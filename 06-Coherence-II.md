@@ -4,7 +4,7 @@ Points
 
 ## What is the Point?
 
-Principle 4. A reader will feel that a paragraph is coherent if she can read  sentence that specifically articulates its point.
+Principle 4. A reader will feel that a paragraph is coherent if she can read  **sentence that specifically articulates its point**.
 
 A point is
 - Notion of new idea or thought
@@ -14,7 +14,7 @@ The better question is not "What's your point", but "Where's your point?"
 
 ## Where's the Point?
 
-Principle 5: A reader will feel that a paragraph is coherent if he finds the Point sentence in one of two predictable places in a paragraph:
+Principle 5: A reader will feel that a paragraph is coherent if he finds the Point sentence in one of **two predictable places** in a paragraph:
 1. at the end of its issue, or
 2. at the end of its discussion; i.e. at the end of the paragraph (or section or whole document)
 

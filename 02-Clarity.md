@@ -1,5 +1,7 @@
 # Clarity
-Subject and charactor; action and verb; Nominalization and passive voice.
+- Charactors to subjects
+- Actions to verbs
+- Proper Nominalization and passive voice
 
 ## The First Two Principles of Clear Writing
 1. the subjects of the sentences name the cast of charactors
@@ -23,7 +25,7 @@ Subject and charactor; action and verb; Nominalization and passive voice.
 - **Empty verb + Nominalization -> Verb**
  - The committee has no expectation that it will meet the deadline.
  - The committee doesn't expect that it will meet the deadline.
-- **There be + Nominalization -> Subject + Verb**
+- ** *There be* + Nominalization -> Subject + Verb**
  - There is a need for further study of this program.
  - The engineers must study this program further.
  - There was considerable erosion of the land from the floods.
@@ -31,7 +33,7 @@ Subject and charactor; action and verb; Nominalization and passive voice.
 - **Nominalization (as a subject) + Empty verb -> Subject + Verb**
  - Our discussion concerned a tax cut.
  - We discussed a tax cut.
-- **Consecutive Nominalization -> Verb + how/why clause**
+- **Consecutive Nominalization -> Verb + *how*/*why* clause**
  - There was first a review of the evolution of the dorsal fin.
  - First, she reviewed the evolution of the dorsal fin.
  - First, she reviewed how the dorsal fin evolved.
@@ -46,12 +48,12 @@ Subject and charactor; action and verb; Nominalization and passive voice.
 - **Naming what would be the object of its verb**
  - I do not understand either her meanings or his intention.
  - I do not understand either what she means or what he intents.
-- **Replacing 'The fact that' (similar to referring a sentence)**
+- **Replacing *The fact that* (similar to referring a sentence)**
  - My denial of this accusations impressed the jury.
  - The fact that I denied this accusations impressed the jury.
 - **Referring an often repeated concept**
  - Taxation without representations was not the central concern of the American Revolution.
-- **There be + Nominalization when developing in subsequent sentences**
+- ** *There be* + Nominalization when developing in subsequent sentences**
  - There is no need for .... There is need, however, for ...
 - **Abstract and impersonal topic (to avoid royal we or empty subject)**
  - The cognitive component of intention exhibits a high degree of complexity.
@@ -65,13 +67,16 @@ Subject and charactor; action and verb; Nominalization and passive voice.
  - By March of 1945, the Axis nations had been essentially defeated; all that remains was a final, but bloody, climax. The borders of Germany had been breached, and both Germany and Japan were being bombed around the clock. Neither country, though, had been so devastated that it could not resist.
  - By March of 1945, the Alies had essentially defeated the Axis nations; all that remained was a final, but bloody, climax. American, Franch and British forces had breached the borders of Germany and were bombing both Germany and Japan around the clock. But they had not so thoroughtly devastated either country as to destroy its ability to resist.
 
-## Metadiscourse: Trading off between First-Person Subjective and Dangling Modifiers
-- Metadiscourse: writing about writing
+## Metadiscourse
+
+- Metadiscourse: **writing about writing**
  - in writing about some subject matter, we incidentally refer to the act and to the context of writing about it.
  - We will explain; we shall show; in conclusion; ...
 - When write in the passive, the writer may unselfconsciously dangled his modifier.
  - To determine if ..., I added ... (First-person subject)
  - To determine if ..., ... was added. (Dangling)
+
+Trade off between First-Person Subjective and Dangling Modifiers
 
 
 ## Summing Up

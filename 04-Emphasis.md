@@ -1,5 +1,5 @@
 # Emphasis
-- Your sentences will be unfocused, weak, and anticlimactic if you don't **put important new information at the ends of your sentences**.
+- Put important new information at the ends of your sentences.
 
 - The rising pitch and stress signal the end of a sentence, called **stress**.
 
@@ -30,11 +30,11 @@
  - At the ends of the sequences, don't repeat words that you read earlier (avoid it or use pronouns, see later)
 
 ## Some Syntactic Devices
- - ***There***: to stress those ideas that you intend to develop in following sentences.
+- ***There***: to stress those ideas that you intend to develop in following sentences.
   - There are a few grammatical patterns that *add weight to the end of a sequence*.
- - ***What***: to throw special emphasis on what follows a linking verb.
+- ***What***: to throw special emphasis on what follows a linking verb.
   - What this country need is *a monetary policy that ...*
- - ** *It-shift* **
+- ** *It-shift* **
   - to shift a long introductory clause from the subject to a position after the verb
     - It once seemed inevitable that *domestic oil prices must eventually rise to the level set by OPEC*.
   - simutaneously select and emphasize a topic and throw added weight on the stress

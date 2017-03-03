@@ -1,5 +1,5 @@
 # Cohesion
-A series of clear sentences can still be confusing. Not turgid, abstract, but disjointed, abrupt and choppy.
+Begin with something old and familiar, as a **topic**.
 
 ## The Flow of Information
 Two complementary principles:
@@ -32,7 +32,7 @@ That idea we announce in the first few words of a sentence.
 
 
 ## Keeping Topics Visible
-- Get rid of unnecessary metadiscourse.
+Get rid of unnecessary metadiscourse.
 
 
 ## Managing Subjects and Topics for Flow
@@ -60,7 +60,7 @@ A topic string is consistent to the degree that your reader can see connections 
  - e.g. Lincoln's Gettysburg Address
 
 ## Summing Up
-- Use the beginning of your sentences to refer what you have already mentioned or knowledge that you can assume your reader readily share.
+- Use the **beginning of your sentences** to refer what you have already mentioned or knowledge that you can assume your reader readily share.
  - The huge number of wounded and dead in the Civil War exceeded all the other wars in American history. One of the reasons for the lingering animosity between North and South today is the memory of this terrible carnage.
  - Of all the wars in American history, none has exceeded the Civil War in the huge number of wounded and dead. The memory of this terrible carnage is one of the reasons for the animosity between North and South today.
-- Choose topics that will control your reader's point of view. This will depend on how creatively you can use verbs to make one or another of your characters the seeming agent of an action.
+- Choose **topics** that will control your reader's point of view. This will depend on how creatively you can use verbs to make one or another of your characters the seeming agent of an action.

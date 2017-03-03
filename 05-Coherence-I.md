@@ -1,5 +1,5 @@
 # Coherence I
-- Topic and Themes
+- Topic and Theme strings
 
 - Paragraph = Issue + Discussion
 
@@ -53,13 +53,13 @@ The whole document should be **short**, much shorter than what it introduces.
 
 
 ## Problems and Fixes
-Problems
+Problems:
 1. At the end of the issue, you introduce a concept that readers take to begin a theme, but you then fail to develop that concept in the discussion. (surplus topic)
 2. Conversely, you fail to anticipate in the issue important themes that you in fact develop in the discussion. (missing topic)
 3. At the end of the issue, you introduce a concept that readers think promises a theme, but in the discussion, you develop that concept using terms so varied that readers cannot connect them to your announced theme. (unfocused theme)
 4. You mention in the issue those themes that you develop in the discussion, but you bury the references to them inside a sentence, instead of highlighting them in the stress of the final sentence of the issue. (weak theme)
 
-Fixes
+Fixes:
 1. Look at the discussion indepentently of the issue and ask what themes in fact the paragraph develops. Then revise the end of the issue to include any thematic strings that are present in and important to that paricular discussion. (make up topic)
 2. Deliberately weave into the discussion whatever important thematic strings you framed in the issue but omitted from the discussion. (make up theme)
 3. Delete from the issue whatever you don't want to develop in the discussion. (delete topic)
