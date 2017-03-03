@@ -2,6 +2,10 @@
 Study notes of *Williams J M, Colomb G G. Style: Toward clarity and grace[M]. Chicago: University of Chicago Press, 1990.*
 
 
+## Contents
+[Chapter 2: Clarity](02-Clarity.md)
+
+
 ## The Model Entire
 This model is built in the first six chapters of the book. It illustrats a strong relation between a word or a phrase's functionality and its **location** in a sentence. This relation consists in three levels in the architecture of a document.
 
