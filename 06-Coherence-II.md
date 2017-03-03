@@ -75,13 +75,7 @@ Whether you make your Point early or late, you must always **frame the space** t
 - Failure to Revise
 
 ## The Model Entire
-(the 3-layer table here)
-
-three additional principles (on topics and thematics):
-- In the issue, introduce key thematic and topical words in its stress.
-- In the discussion, keep strings of topics consistant.
-- In the discussion, repeat those thematic words or words related to them.
-
+See [Preface](README.md)
 
 ## Heading as Test for Coherence
 Writers can use headings to diagnose potential problems with the perceived structure of a document.
@@ -98,4 +92,4 @@ State **central topics and themes**. To determine what those topics and themes s
 - Computer Assisted Instruction: Advantages and Disadvantages
 
 ## A Final Note on Drafting
-(very useful)
+See [Preface](README.md)
