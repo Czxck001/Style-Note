@@ -1,10 +1,10 @@
-## Emphasis
+# Emphasis
 - Your sentences will be unfocused, weak, and anticlimactic if you don't **put important new information at the ends of your sentences**.
 
 - The rising pitch and stress signal the end of a sentence, called **stress**.
 
 
-### Managing Endings
+## Managing Endings
 - **Trim the unnecessary end**
  - Sociobiologists are making the provocative claim that our genes largely determine our social behavior ~~in the way we act in situations we find around us every day~~.
 - **Shift less important information to the left**
@@ -29,7 +29,7 @@
    - Under the Clean Water Act, the EPA will promulgate new standards for the treatment of industrial wastewater before it is discharged into sewers leading to publicly owned treatment plants. Unlike the standards now required under the act, the new standards will not be uniform across the whole nation. They instead will be *discretionary, depending on local conditions*.
  - At the ends of the sequences, don't repeat words that you read earlier (avoid it or use pronouns, see later)
 
-### Some Syntactic Devices
+## Some Syntactic Devices
  - ***There***: to stress those ideas that you intend to develop in following sentences.
   - There are a few grammatical patterns that *add weight to the end of a sequence*.
  - ***What***: to throw special emphasis on what follows a linking verb.
@@ -40,7 +40,7 @@
   - simutaneously select and emphasize a topic and throw added weight on the stress
     - It was *in 1933* that *this country experienced a depression that almost wrecked our democratic system of government*.
 
-### Other Ways
+## Other Ways
 - **Pronouns**
  - to prevent repeating words at the ends of sequences
  - throw the emphasis before the pronoun
@@ -49,6 +49,6 @@
  - The opportunities we offer are particularly rich at the graduate level, *it must be remembered*.
  - The opportunities we offer, it must be remembered, are particularly rich at the graduate level.
 
-### Nuances of Emphasis
+## Nuances of Emphasis
 - When you introduce a technical term for the first time--or even a familiar but very important term--design the sentence it appears in so that you can **locate that term at the end, in its stress**, never at the beginning, in its topic.
-- A writer can manipulate the stress of sentences in ways that encourage us to respond not to what is new, but to **what we should take as new**, what we should take as familiar. 
+- A writer can manipulate the stress of sentences in ways that encourage us to respond not to what is new, but to **what we should take as new**, what we should take as familiar.

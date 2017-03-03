@@ -1,7 +1,7 @@
-## Cohesion
+# Cohesion
 A series of clear sentences can still be confusing. Not turgid, abstract, but disjointed, abrupt and choppy.
 
-### The Flow of Information
+## The Flow of Information
 Two complementary principles:
 - Put at the beginning of the sentence the ideas that
  - you have already mentioned, referred to, or implied.
@@ -10,7 +10,7 @@ Two complementary principles:
  - is most surprising, most signifient
  - you will expand on in the next sentence
 
-### Beginning Well
+## Beginning Well
 - Connect the sentence to the preceding one, use transitional metadiscourse:
  - *and, but, therefore, as a result*
 - Help readers evaluate what follows
@@ -21,7 +21,7 @@ Two complementary principles:
  - And therefore, it's important to note, that from a practical point of view, in the Northeastern states in recent years, *these sources of acid rain* have been a matter of much concern.
 
 
-### Topics: Psychological Subjects
+## Topics: Psychological Subjects
 That idea we announce in the first few words of a sentence.
 - **Grammatical subjects**
  - Private higher education is seriously concerned about population trends through the end of the century.
@@ -31,11 +31,11 @@ That idea we announce in the first few words of a sentence.
  - As for abortion, it is not clear how the Supreme court will rule.
 
 
-### Keeping Topics Visible
+## Keeping Topics Visible
 - Get rid of unnecessary metadiscourse.
 
 
-### Managing Subjects and Topics for Flow
+## Managing Subjects and Topics for Flow
 A topic string is consistent to the degree that your reader can see connections in the sequence of words and phrases that open your sentences (and clauses).
 
 - **Passive again**: the mean reason the passive exists in the language--to improve cohesion and emphasis.
@@ -48,18 +48,18 @@ A topic string is consistent to the degree that your reader can see connections 
  - *If* a discovery proceeding closes and an attorney then uncovers documents that might be even peripherally relevant to the matter of the proceeding, *he* must notify both the court and the opposing attorney.
 
 
-### Consequences of The Two Principles
+## Consequences of The Two Principles
 - You may find yourself writing as many **passive sentences** as active. But if active sentences create a less consistent string of topics, leave the sentences passive.
 - You may find yourself **using nominalizations as topics** because those nominalizations refer to ideas in sentences that went before. That is an important use of nominalizations: to sum up in one phrase actions you have just mentioned so that you can comment on them.
 
-### Special Problems with Topics
+## Special Problems with Topics
 - Audience as Topic
  - to be more readable.
 - Designing Topics
  - to assign responsibility of action.
  - e.g. Lincoln's Gettysburg Address
 
-### Summing Up
+## Summing Up
 - Use the beginning of your sentences to refer what you have already mentioned or knowledge that you can assume your reader readily share.
  - The huge number of wounded and dead in the Civil War exceeded all the other wars in American history. One of the reasons for the lingering animosity between North and South today is the memory of this terrible carnage.
  - Of all the wars in American history, none has exceeded the Civil War in the huge number of wounded and dead. The memory of this terrible carnage is one of the reasons for the animosity between North and South today.

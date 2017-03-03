@@ -1,11 +1,11 @@
-## Clarity
+# Clarity
 Subject and charactor; action and verb; Nominalization and passive voice.
 
-### The First Two Principles of Clear Writing
+## The First Two Principles of Clear Writing
 1. the subjects of the sentences name the cast of charactors
 2. the verbs that go with those subjects name the crutial actions those charactors are part of
 
-### Subjects and Charactors
+## Subjects and Charactors
 - Agents
 - Implied in an adjactive
 - Far removed
@@ -14,12 +14,12 @@ Subject and charactor; action and verb; Nominalization and passive voice.
  - As English is lacking indefinite pronoun, we need to use *royal we* or passive voice.
 
 
-### Verb and actions: Nominalization
+## Verb and actions: Nominalization
 - Our request is that on your return, you conduct a review of the data and provide an immediate report.
 - We request that when you return, you review the data and report immediately.
 
 
-### Bad Nominalization -> Verb
+## Bad Nominalization -> Verb
 - **Empty verb + Nominalization -> Verb**
  - The committee has no expectation that it will meet the deadline.
  - The committee doesn't expect that it will meet the deadline.
@@ -40,7 +40,7 @@ Subject and charactor; action and verb; Nominalization and passive voice.
  - They ceassed hostolities because they lost personnel.
 
 
-### Good Nominalization
+## Good Nominalization
 - **Subject referring a previous sentence**
  - This decision can lead to costly consequences.
 - **Naming what would be the object of its verb**
@@ -58,14 +58,14 @@ Subject and charactor; action and verb; Nominalization and passive voice.
  - When an actor intents anything, he behaves in ways that are cognitively complex.
 
 
-### Passive or Active
+## Passive or Active
 - **Whether the agent is known or needed.**
  - Those who are found guilty of murder can be executed.
 - **The subjects in a sequence of sentences should be consistent.**
  - By March of 1945, the Axis nations had been essentially defeated; all that remains was a final, but bloody, climax. The borders of Germany had been breached, and both Germany and Japan were being bombed around the clock. Neither country, though, had been so devastated that it could not resist.
  - By March of 1945, the Alies had essentially defeated the Axis nations; all that remained was a final, but bloody, climax. American, Franch and British forces had breached the borders of Germany and were bombing both Germany and Japan around the clock. But they had not so thoroughtly devastated either country as to destroy its ability to resist.
 
-### Metadiscourse: Trading off between First-Person Subjective and Dangling Modifiers
+## Metadiscourse: Trading off between First-Person Subjective and Dangling Modifiers
 - Metadiscourse: writing about writing
  - in writing about some subject matter, we incidentally refer to the act and to the context of writing about it.
  - We will explain; we shall show; in conclusion; ...
@@ -74,7 +74,7 @@ Subject and charactor; action and verb; Nominalization and passive voice.
  - To determine if ..., ... was added. (Dangling)
 
 
-### Summing Up
+## Summing Up
 - **Express actions and conditions in specific verbs, adverbs or adjectives**
  - The intention of the committee is the improvement of morale.
  - The committee intents to improve morale.

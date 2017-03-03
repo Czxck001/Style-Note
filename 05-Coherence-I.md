@@ -1,9 +1,9 @@
-## Coherence I
+# Coherence I
 - Topic and Themes
 
 - Paragraph = Issue + Discussion
 
-### The Five Principles
+## The Five Principles
 1. A cohesive paragraph has consistent **topic strings**
 2. A cohesive paragraph has another set of strings running through it that we will call **thematic strings**.
 3. A cohesive paragraph introduces new topic and thematic strings in a **predictable location**: at the end of the sentence that introduce the paragraph.
@@ -12,13 +12,13 @@
 
 This chapter covers the first three principles.
 
-### Topic Strings
+## Topic Strings
 - Focus the reader's attention on a limited set of referents, usually **charactors**, but also central **repeated concepts**.
 - By consistent topics, we don't mean identical. The topics should constitute a sequence that make consistent sense to the reader.
 - Choose the topic to design the reader's attention on a paticular point of view.
 
 
-### Thematic Strings
+## Thematic Strings
 - **Themes**: sets of conceptually related words.
 - **Thematic strings**: sequences of them that run through the paragraph.
 
@@ -29,19 +29,19 @@ Together, topic strings and the thematic strings consistute the conceptual archi
 - The thematic strings give your reader a sense that you are focusing on a **core of ideas** of related to those topics.
 
 
-### Bad Thematic Strings:  Diffuse Strings (unfocused)
+## Bad Thematic Strings:  Diffuse Strings (unfocused)
 - only implicit or the writer uses no single word to pull together concepts that may seem to a reader wholly unrelated.
 - e.g. many diferent words and phrases for just few concepts. ("Vary your word choice" is a bad advice.)
 
-### Signaling Topics and Themes
+## Signaling Topics and Themes
 - Principle of design: Introduce new themes not anywhere in a sentence, but rather as **close to its end** as we can manage.
 
 - We use the concluding stress position not only to emphasize important words that we think are important in that single sentence, but to signal that we **intend to develop new themes** in the sentences that follow.
 
-### Complex Introductions
+## Complex Introductions
 Good readers often introduce a paragraph with more than a single sentence.
 
-### Paragraph = Issue + Discussion
+## Paragraph = Issue + Discussion
 
 Readers always try to devide paragraphs, sections or wholes into two sections:
 - A short opening segment. Towards the end of this segment, in the stress position of the last sentence, readers look for the concepts the writer will discuss in the following section. Those words are often **topics**, but they must also include **themes**.
@@ -52,7 +52,7 @@ The issue of a paragraph is not its ideas, its concepts or its subject. The issu
 The whole document should be **short**, much shorter than what it introduces.
 
 
-### Problems and Fixes
+## Problems and Fixes
 Problems
 1. At the end of the issue, you introduce a concept that readers take to begin a theme, but you then fail to develop that concept in the discussion. (surplus topic)
 2. Conversely, you fail to anticipate in the issue important themes that you in fact develop in the discussion. (missing topic)
