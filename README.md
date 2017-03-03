@@ -3,7 +3,11 @@ Study notes of *Williams J M, Colomb G G. Style: Toward clarity and grace[M]. Ch
 
 
 ## Contents
-[Chapter 2: Clarity](02-Clarity.md)
+- [Chapter 2: Clarity](02-Clarity.md)
+- [Chapter 3: Cohesion](03-Cohesion.md)
+- [Chapter 4: Emphasis](04-Emphasis.md)
+- [Chapter 5: Coherence I](05-Coherence-I.md)
+- [Chapter 6: Coherence II](06-Coherence-II.md)
 
 
 ## The Model Entire
