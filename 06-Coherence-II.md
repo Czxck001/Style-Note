@@ -50,8 +50,8 @@ But if the writer does put the Point sentence at the end of the discussion of th
 ## Points in Whole Documents
 Point sentences in paragraphs:
 - If the paragraph is a **body** paragraph, if it does not introduce a section or whole document, you can make your Point sentence in either or both of two pieces:
- - at the end of the introductory issue, and
- - at the end of the paragraph; i.e., at the end of the discussion.
+  - at the end of the introductory issue, and
+  - at the end of the paragraph; i.e., at the end of the discussion.
 - But if the paragraph **introduces** a section or even a whole document, then you should not put your Point sentence at the end of that paragraph.
 
 Similarly, Point sentences in documents:
