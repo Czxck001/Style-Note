@@ -8,7 +8,7 @@ Study notes of *Williams J M, Colomb G G. Style: Toward clarity and grace[M]. Ch
 - [Chapter 4: Emphasis](04-Emphasis.md)
 - [Chapter 5: Coherence I](05-Coherence-I.md)
 - [Chapter 6: Coherence II](06-Coherence-II.md)
-
+- [Chapter 8: Length](08-Length.md)
 
 ## The Model Entire
 This model is built in the first six chapters of the book. It illustrats a strong relation between a word or a phrase's functionality and its **location** in a sentence. This relation consists in three levels in the architecture of a document.
