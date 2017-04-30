@@ -39,7 +39,7 @@ Get rid of unnecessary metadiscourse.
 A topic string is consistent to the degree that your reader can see connections in the sequence of words and phrases that open your sentences (and clauses).
 
 ### Passive again
-the mean reason the passive exists in the language--to improve cohesion and emphasis.
+The main reason the passive exists in the language: to improve cohesion and emphasis.
 - These observation have been confirmed by astronomers, physicists, and a host of other researchers entirely familiar with the problems raised by quasars.
 
 ### Subject-complememt switching
